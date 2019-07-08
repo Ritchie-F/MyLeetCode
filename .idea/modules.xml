@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/203-linked-list-element/203-linked-list-element.iml" filepath="$PROJECT_DIR$/203-linked-list-element/203-linked-list-element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/347-Top-K-Frequent-Elements/347-Top-K-Frequent-Elements.iml" filepath="$PROJECT_DIR$/347-Top-K-Frequent-Elements/347-Top-K-Frequent-Elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/349-Intersection-Of-Two-Arrays/349-Intersection-Of-Two-Arrays.iml" filepath="$PROJECT_DIR$/349-Intersection-Of-Two-Arrays/349-Intersection-Of-Two-Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/350-Intersection-Of-Two-Arrays-II/350-Intersection-Of-Two-Arrays-II.iml" filepath="$PROJECT_DIR$/350-Intersection-Of-Two-Arrays-II/350-Intersection-Of-Two-Arrays-II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/387-First-Unique-Character-In-A-String/387-First-Unique-Character-In-A-String.iml" filepath="$PROJECT_DIR$/387-First-Unique-Character-In-A-String/387-First-Unique-Character-In-A-String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/804-unique-morse-code-words/804-unique-morse-code-words.iml" filepath="$PROJECT_DIR$/804-unique-morse-code-words/804-unique-morse-code-words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Validparentheses/Validparentheses.iml" filepath="$PROJECT_DIR$/Validparentheses/Validparentheses.iml" />
+    </modules>
+  </component>
+</project>
